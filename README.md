@@ -1,2 +1,2 @@
 # database_lookup
-A small and simple database information retrieving scripts for documentation purposes
+This is a small script I wrote whilst working at Johnson and Johnson and retrieves information from a centrally located Excel database file (mapped network drive). I could not include the database file as it contains all our protein sequences and is therefor highly confidential. The script looks up what the lotnumbers of the DNAs are and the location in the freezer. This information is used to document research results while doing high-throughput screening assays.
